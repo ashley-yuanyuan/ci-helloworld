@@ -15,7 +15,7 @@ public class ArrayUtils {
                 return i;
             }
         }
-        return -1;
+        return 1;
     }
 
     /**
